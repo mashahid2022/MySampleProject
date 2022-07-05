@@ -2,7 +2,10 @@ package pack1.Test;
 
 public class MyClass 
 {
-
-	//comment
+public static void main(String args[]) 
+   {
+	
+	System.out.println("testing ....");
+	}
 	
 }
